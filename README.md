@@ -1,6 +1,6 @@
-# GTA5-Britishflags
+# poitor-Britishflags
 
-This replaces all US flags with UK British Flags
+GTA 5 - This replaces all US flags with UK British Flags
 
 ---
 
